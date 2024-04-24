@@ -1,0 +1,14 @@
+C:\Users\45418\source\repos\RandomListe\RandomListe\bin\Debug\net8.0\RandomListe.exe
+C:\Users\45418\source\repos\RandomListe\RandomListe\bin\Debug\net8.0\RandomListe.deps.json
+C:\Users\45418\source\repos\RandomListe\RandomListe\bin\Debug\net8.0\RandomListe.runtimeconfig.json
+C:\Users\45418\source\repos\RandomListe\RandomListe\bin\Debug\net8.0\RandomListe.dll
+C:\Users\45418\source\repos\RandomListe\RandomListe\bin\Debug\net8.0\RandomListe.pdb
+C:\Users\45418\source\repos\RandomListe\RandomListe\obj\Debug\net8.0\RandomListe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45418\source\repos\RandomListe\RandomListe\obj\Debug\net8.0\RandomListe.AssemblyInfoInputs.cache
+C:\Users\45418\source\repos\RandomListe\RandomListe\obj\Debug\net8.0\RandomListe.AssemblyInfo.cs
+C:\Users\45418\source\repos\RandomListe\RandomListe\obj\Debug\net8.0\RandomListe.csproj.CoreCompileInputs.cache
+C:\Users\45418\source\repos\RandomListe\RandomListe\obj\Debug\net8.0\RandomListe.dll
+C:\Users\45418\source\repos\RandomListe\RandomListe\obj\Debug\net8.0\refint\RandomListe.dll
+C:\Users\45418\source\repos\RandomListe\RandomListe\obj\Debug\net8.0\RandomListe.pdb
+C:\Users\45418\source\repos\RandomListe\RandomListe\obj\Debug\net8.0\RandomListe.genruntimeconfig.cache
+C:\Users\45418\source\repos\RandomListe\RandomListe\obj\Debug\net8.0\ref\RandomListe.dll
